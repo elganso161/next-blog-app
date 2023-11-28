@@ -1,4 +1,4 @@
 const TheFooter = () => {
-  return <footer className="footer">Created by &copy;MishaNep</footer>;
+  return <footer className="footer">footer</footer>;
 };
 export { TheFooter };
